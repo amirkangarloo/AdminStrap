@@ -16,15 +16,15 @@ body{
 }
 
 .navbar-default {
-  background-color: #e74c3c;
-  border-color: #c0392b;
+  background-color: #009688;
+  border-color: #00695C;
 }
 .navbar-default .navbar-brand {
   color: #ecf0f1;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  color: #ffbbbc;
+  color: #E0F2F1;
 }
 .navbar-default .navbar-text {
   color: #ecf0f1;
@@ -34,26 +34,26 @@ body{
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #ffbbbc;
+  color: #E0F2F1;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #ffbbbc;
-  background-color: #c0392b;
+  color: #E0F2F1;
+  background-color: #00695C;
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  color: #ffbbbc;
-  background-color: #c0392b;
+  color: #E0F2F1;
+  background-color: #00695C;
 }
 .navbar-default .navbar-toggle {
-  border-color: #c0392b;
+  border-color: #00695C;
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: #c0392b;
+  background-color: #00695C;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #ecf0f1;
@@ -66,19 +66,19 @@ body{
   color: #ecf0f1;
 }
 .navbar-default .navbar-link:hover {
-  color: #ffbbbc;
+  color: #E0F2F1;
 }
 
 .main-color-bg{
-  background-color: #e74c3c !important;
-  border-color: #c0392b !important;
+  background-color: #009688 !important;
+  border-color: #00695C !important;
   color: #ffffff !important;
 }
 
 /*Header*/
 
 #header{
-  background: #333333;
+  background: #263238;
   color: #fff;
   padding-bottom: 10px;
   margin-bottom: 15px;
@@ -91,17 +91,17 @@ body{
 /*Breadcrumb*/
 .breadcrumb{
   background: #cccccc;
-  color: #333333;
+  color: #263238;
 }
 
 .breadcrumb a{
-  color: #333333;
+  color: #263238;
 }
 
 /*Progress Bar*/
 
 .progress-bar{
-  background: #333333;
+  background: #263238;
   color: #ffff;
 
 }
@@ -112,7 +112,7 @@ body{
 
 /* Footer */
 #footer{
-  background: #333333;
+  background: #263238;
   color: #ffffff;
   text-align: center;
   padding: 30px;
@@ -131,12 +131,12 @@ body{
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-    color: #ffbbbc;
+    color: #E0F2F1;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
-    color: #ffbbbc;
-    background-color: #c0392b;
+    color: #E0F2F1;
+    background-color: #00695C;
   }
 }
